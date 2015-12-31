@@ -58,3 +58,9 @@ target/
 
 # IPython Notebook
 .ipynb*
+
+# Non-Final CSVs
+*_.csv
+
+# Temp Folders
+/tempdata
