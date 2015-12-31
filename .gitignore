@@ -59,8 +59,8 @@ target/
 # IPython Notebook
 .ipynb*
 
-# Non-Final CSVs
-*_.csv
+# Files I don't want to push
+*_.*
 
 # Temp Folders
 /tempdata
