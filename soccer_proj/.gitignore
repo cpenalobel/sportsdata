@@ -1,9 +1,9 @@
-gnore everything
+# Ignore everything
 *
 
 # But not these files...
-!.gitignore
-!.7z
+!*.gitignore
+!*.7z
 
 # ...even if they are in subdirectories
 !*/
